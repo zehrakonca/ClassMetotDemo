@@ -1,1 +1,6 @@
 c:\users\zehra\onedrive\documents\visual studio 2015\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
